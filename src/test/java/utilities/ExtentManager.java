@@ -76,7 +76,9 @@ public class ExtentManager implements ITestListener {
 	    }
 	    	catch(IOException e) {
 	    		e.printStackTrace();
-	    		}
+	    		
+	    	}
+	    }
 
 	    // Called when a test case is skipped
 	    public void onTestSkipped(ITestResult result) {
