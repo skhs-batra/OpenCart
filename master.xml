@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+ <listeners>
+        <listener class-name="utilities.ExtentManager" />
+    </listeners>
+  <test thread-count="5" name="Test">
+     <parameter name="browser" value="chrome"/>
+     
+    <classes>
+      <class name="testCases.TC_001_LoginNinjaTest"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

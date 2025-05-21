@@ -1,0 +1,21 @@
+13:23:54.441 [main] INFO  testCases.LoginTest - ************ Starting Login Test ************
+13:23:54.455 [main] INFO  testCases.LoginTest - Providing username and password
+13:23:54.652 [main] INFO  testCases.LoginTest - Accepting terms and conditions
+13:23:54.699 [main] INFO  testCases.LoginTest - Clicking Login button
+13:23:54.734 [main] INFO  testCases.LoginTest - ************ Login Test Completed ************
+13:37:21.011 [main] INFO  testCases.LoginTest - ************ Starting Login Test ************
+13:37:21.019 [main] INFO  testCases.LoginTest - Providing username and password
+13:37:21.232 [main] INFO  testCases.LoginTest - Accepting terms and conditions
+13:37:21.280 [main] INFO  testCases.LoginTest - Clicking Login button
+13:37:21.318 [main] INFO  testCases.LoginTest - ************ Login Test Completed ************
+15:29:51.960 [main] INFO  testCases.TC_001_LoginNinjaTest - ***********Starting TC_001_LoginNinjaTest**********
+15:29:53.069 [main] INFO  testCases.TC_001_LoginNinjaTest - **********Finished TC_001_LoginNinjaTest
+15:30:45.129 [main] INFO  testCases.TC_001_LoginNinjaTest - ***********Starting TC_001_LoginNinjaTest**********
+15:33:04.222 [main] INFO  testCases.TC_001_LoginNinjaTest - ***********Starting TC_001_LoginNinjaTest**********
+15:33:05.418 [main] INFO  testCases.TC_001_LoginNinjaTest - **********Finished TC_001_LoginNinjaTest
+22:46:04.820 [main] INFO  testCases.TC_001_LoginNinjaTest - ***********Starting TC_001_LoginNinjaTest**********
+22:46:06.746 [main] INFO  testCases.TC_001_LoginNinjaTest - **********Finished TC_001_LoginNinjaTest
+22:27:38.734 [main] INFO  testCases.TC_001_LoginNinjaTest - ***********Starting TC_001_LoginNinjaTest**********
+22:27:39.939 [main] INFO  testCases.TC_001_LoginNinjaTest - **********Finished TC_001_LoginNinjaTest
+22:48:08.105 [main] INFO  testCases.TC_001_LoginNinjaTest - ***********Starting TC_001_LoginNinjaTest**********
+22:48:09.256 [main] INFO  testCases.TC_001_LoginNinjaTest - **********Finished TC_001_LoginNinjaTest
